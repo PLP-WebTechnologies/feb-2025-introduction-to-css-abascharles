@@ -1,0 +1,67 @@
+/* Universal Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Header Styling */
+header {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+/* Main Title Styling (using class selector) */
+.main-title {
+  font-size: 2.5em;
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 10px;
+}
+
+/* Paragraph Styling for intro (using ID selector) */
+#intro {
+  font-size: 1.2em;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+/* Section Styling */
+section {
+  margin-top: 40px;
+}
+
+/* Image Styling (using class selector) */
+.image-style {
+  display: block;
+  max-width: 100%;
+  margin: 20px auto;
+  border: 5px solid #333;
+  border-radius: 10px;
+}
+
+/* Image description (using class selector) */
+.image-description {
+  font-size: 1.1em;
+  margin-top: 10px;
+  color: #666;
+}
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 1em;
+  color: #777;
+}
